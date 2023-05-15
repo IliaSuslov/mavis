@@ -1,0 +1,94 @@
+[
+  {
+    "name": "Сотрудник 1",
+    "shop": "Магазин 1",
+    "role": "administrator",
+    "timePlanFrom": "2023-05-01 09:00",
+    "timePlanTo": "2023-05-01 18:00"
+  },
+  {
+    "name": "Сотрудник 5",
+    "shop": "Магазин 1",
+    "role": "administrator",
+    "timePlanFrom": "2023-05-01 09:00",
+    "timePlanTo": "2023-05-01 18:00"
+  },
+  {
+    "name": "Сотрудник 1",
+    "shop": "Магазин 1",
+    "role": "administrator",
+    "timePlanFrom": "2023-05-02 09:00",
+    "timePlanTo": "2023-05-02 18:00"
+  },
+  {
+    "name": "Сотрудник 2",
+    "shop": "Магазин 1",
+    "role": "administrator",
+    "timePlanFrom": "2023-05-01 09:00",
+    "timePlanTo": "2023-05-01 18:00"
+  },
+  {
+    "name": "Сотрудник 4",
+    "shop": "Магазин 1",
+    "role": "administrator",
+    "timePlanFrom": "2023-05-01 09:00",
+    "timePlanTo": "2023-05-01 18:00"
+  },
+  {
+    "name": "Сотрудник 2",
+    "shop": "Магазин 1",
+    "role": "administrator",
+    "timePlanFrom": "2023-05-02 09:00",
+    "timePlanTo": "2023-05-02 18:00"
+  },
+  {
+    "name": "Сотрудник 3",
+    "shop": "Магазин 1",
+    "role": "administrator",
+    "timePlanFrom": "2023-05-03 09:00",
+    "timePlanTo": "2023-05-03 18:00"
+  },
+  {
+    "name": "Сотрудник 3",
+    "shop": "Магазин 1",
+    "role": "administrator",
+    "timePlanFrom": "2023-05-04 09:00",
+    "timePlanTo": "2023-05-04 18:00"
+  },
+  {
+    "name": "Сотрудник 5",
+    "shop": "Магазин 1",
+    "role": "administrator",
+    "timePlanFrom": "2023-05-03 09:00",
+    "timePlanTo": "2023-05-03 18:00"
+  },
+  {
+    "name": "Сотрудник 6",
+    "shop": "Магазин 1",
+    "role": "administrator",
+    "timePlanFrom": "2023-05-03 09:00",
+    "timePlanTo": "2023-05-03 18:00"
+  },
+  {
+    "name": "Сотрудник 7",
+    "shop": "Магазин 1",
+    "role": "administrator",
+    "timePlanFrom": "2023-05-03 09:00",
+    "timePlanTo": "2023-05-03 18:00"
+  },
+
+  {
+    "name": "Сотрудник 6",
+    "shop": "Магазин 1",
+    "role": "administrator",
+    "timePlanFrom": "2023-05-08 09:00",
+    "timePlanTo": "2023-05-08 18:00"
+  },
+  {
+    "name": "Сотрудник 7",
+    "shop": "Магазин 1",
+    "role": "administrator",
+    "timePlanFrom": "2023-05-09 09:00",
+    "timePlanTo": "2023-05-09 18:00"
+  }
+]
